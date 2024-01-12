@@ -1,6 +1,8 @@
 # MOTOCOCO
 ## Servo-motor controller for MotoCoco ATiny85
 
+![alt-text](https://github.com/kimitobo/motococo/blob/master/pics/IMG_1677.JPG)
+
 Motococo is a multi-use, Arduino compatible board based on the ATiny85 microcontroller using audiobootloader for the programming it. It has two servo-motor ports, analog sensor input, Neopixel output with three places for the 5050 footprint Neopixels and a solder point for audio out.
 
 
